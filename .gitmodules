@@ -5,6 +5,3 @@
 [submodule "PhaseType"]
 	path = PhaseType
 	url = https://github.com/louisaslett/phasetype
-[submodule "mlmc"]
-	path = mlmc
-	url = https://github.com/louisaslett/mlmc
