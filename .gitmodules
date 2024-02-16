@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/louisaslett/louisaslett.r-universe.dev
 	branch = HEAD
 [submodule "PhaseType"]
 	path = PhaseType
-	url = https://github.com/louisaslett/phasetype
+	url = https://github.com/louisaslett/PhaseType
+[submodule "ReliabilityTheory"]
+	path = ReliabilityTheory
+	url = https://github.com/louisaslett/ReliabilityTheory
+[submodule "mlmc"]
+	path = mlmc
+	url = https://github.com/louisaslett/mlmc
