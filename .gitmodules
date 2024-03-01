@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/louisaslett/louisaslett.r-universe.dev
 	branch = HEAD
-[submodule "HomomorphicEncryption"]
-	path = HomomorphicEncryption
-	url = https://github.com/louisaslett/HomomorphicEncryption
 [submodule "PhaseType"]
 	path = PhaseType
 	url = https://github.com/louisaslett/PhaseType
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/louisaslett/ReliabilityTheory
+[submodule "fhe"]
+	path = fhe
+	url = https://github.com/louisaslett/fhe
 [submodule "mlmc"]
 	path = mlmc
 	url = https://github.com/louisaslett/mlmc
