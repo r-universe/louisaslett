@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/louisaslett/louisaslett.r-universe.dev
 	branch = HEAD
+[submodule "BrownianMotion"]
+	path = BrownianMotion
+	url = https://github.com/louisaslett/BrownianMotion
 [submodule "PhaseType"]
 	path = PhaseType
 	url = https://github.com/louisaslett/PhaseType
