@@ -14,6 +14,9 @@
 [submodule "fhe"]
 	path = fhe
 	url = https://github.com/louisaslett/fhe
+[submodule "maths.genealogy"]
+	path = maths.genealogy
+	url = https://github.com/louisaslett/maths.genealogy
 [submodule "mlmc"]
 	path = mlmc
 	url = https://github.com/louisaslett/mlmc
