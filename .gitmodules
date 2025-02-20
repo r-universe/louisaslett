@@ -20,3 +20,6 @@
 [submodule "mlmc"]
 	path = mlmc
 	url = https://github.com/louisaslett/mlmc
+[submodule "stors"]
+	path = stors
+	url = https://github.com/Ahmad-qab/stors
