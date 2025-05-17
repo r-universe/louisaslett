@@ -11,6 +11,9 @@
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/louisaslett/ReliabilityTheory
+[submodule "fdp"]
+	path = fdp
+	url = https://github.com/louisaslett/fdp
 [submodule "fhe"]
 	path = fhe
 	url = https://github.com/louisaslett/fhe
