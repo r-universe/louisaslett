@@ -17,6 +17,9 @@
 [submodule "fhe"]
 	path = fhe
 	url = https://github.com/louisaslett/fhe
+[submodule "highway"]
+	path = highway
+	url = https://github.com/louisaslett/highway
 [submodule "maths.genealogy"]
 	path = maths.genealogy
 	url = https://github.com/louisaslett/maths.genealogy
